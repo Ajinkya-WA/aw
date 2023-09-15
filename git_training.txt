@@ -1,2 +1,4 @@
 rahul, it, 2000
 aditya ,hr, 3000
+samiksha, account, 5000
+aishu, accounts, 4000
